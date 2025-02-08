@@ -59,5 +59,3 @@ with open(updateFile, 'r') as file:
             result += int(fixedUpdates[len(fixedUpdates) // 2])
     
 print(result)
-
-
